@@ -20,8 +20,8 @@ To work with automated tools, one must interact with a set of interfaces.
 There are various interfaces in a process & software stack.
 
 This repo is an exercise to understand how the protocol.love api is used in service of real-world agreements & contracts.
-Examples of the protocol.love api being used in a stepwise fashion will demonstrate the veracity of the protocol.love 
-    api concept & to root out architectural bugs in the api & process itself.
+Examples of the protocol.love api being used in a stepwise & semi-formal fashion will demonstrate the veracity of the
+    protocol.love api concept and to root out architectural misunderstandings & bugs in the api & process itself.
 
 ## Existing work
 
