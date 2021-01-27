@@ -6,7 +6,7 @@ Lovescript is an experiment to distill the essential protocol.love information i
 
 ## Goal
 
-To explore simple manual interfaces to model an agreement & fulfillment of Actions in the agreement using techniques such as
+To explore a minimal manual interface to protocol.love using techniques such as
 [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language), 
 [semi-structured data](https://en.wikipedia.org/wiki/Semi-structured_data),
 paper prototyping, diagrams, etc.
