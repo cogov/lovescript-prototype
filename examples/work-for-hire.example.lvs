@@ -1,7 +1,8 @@
-entity contractor
-entity client
+input $rate default 0.001BTC/hour
+input entity contractor
+input entity client
 def action work: collective foundational consulting
-def action payment: .001BTC/hour transfer to wallet <wallet_address>
+def action payment: $rate transfer to wallet <wallet_address>
 action work from contractor
 action send_invoice from contractor to client
 action payment from client to contractor
